@@ -5,7 +5,7 @@ encoding "utf8";
 import "base.proto";
 import "article_base.proto";
 
-TAuxDicArticle /*статья словаря*/ "Поиск_МОС"
+TAuxDicArticle "Поиск_МОС"
 	{
 	key = { "tomita:grammar.cxx" type=CUSTOM}
 	}
