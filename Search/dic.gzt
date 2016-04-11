@@ -1,0 +1,11 @@
+encoding "utf8";
+
+// Эти словари  зашиты в бинарник//
+
+import "base.proto";
+import "article_base.proto";
+
+TAuxDicArticle /*статья словаря*/ "Поиск_МОС"
+	{
+	key = { "tomita:grammar.cxx" type=CUSTOM}
+	}

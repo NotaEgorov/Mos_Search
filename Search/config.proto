@@ -1,0 +1,15 @@
+encoding "utf8";
+
+TTextMinerConfig {
+Dictionary = "dic.gzt";
+
+
+Input = {File = "postavlenie-pravitelstva-moskvy-ot-31-marta-2015-goda-n-151_pp.docx"}
+
+Output = {File = "output.txt"
+Format = text}
+
+Articles = [
+{ Name = "Поиск_МОС" }
+]
+}
