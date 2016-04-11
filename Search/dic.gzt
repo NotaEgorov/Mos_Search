@@ -3,7 +3,7 @@ encoding "utf8";
 // Эти словари  зашиты в бинарник//
 
 import "base.proto";
-import "article_base.proto";
+import "articles_base.proto";
 
 TAuxDicArticle "Поиск_МОС"
 	{

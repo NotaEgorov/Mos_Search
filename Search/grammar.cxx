@@ -1,5 +1,4 @@
-#encoding "utf-8";
-
+#encoding "utf-8"
 
 PP -> Prep Noun;
 S -> Verb PP;
