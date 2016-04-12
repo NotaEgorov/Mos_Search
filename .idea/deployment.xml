@@ -2,6 +2,13 @@
 <project version="4">
   <component name="PublishConfigData" serverName="https://github.com/NotaEgorov/">
     <serverData>
+      <paths name="GitHub">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="https://github.com/NotaEgorov/" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="https://github.com/NotaEgorov/">
         <serverdata>
           <mappings>
